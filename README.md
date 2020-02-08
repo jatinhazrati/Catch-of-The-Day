@@ -1,6 +1,11 @@
 # CATCH OF THE DAY
 
-Visit : 
+**Tech Stacks :**<br/>
+**1) React JS**<br/>
+**2) Firebase for authentication**<br/>
+
+
+### `Deploys` : 
 
 https://catch-of-the-day-by-jatin.now.sh/ 
 
