@@ -7,8 +7,14 @@
 
 ### `Deploys` : 
 
-https://catch-of-the-day-by-jatin.now.sh/ 
+https://catch-of-the-day-by-jatin.now.sh/ **(ZEIT)**
 
         OR
         
 https://cotd.jatinhazrati.now.sh/
+
+        OR
+        
+https://cotd-jatin.netlify.com **(NETLIFY)**
+
+
